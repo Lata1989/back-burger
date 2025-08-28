@@ -1,0 +1,72 @@
+[
+  {
+    "id_estado_pedido": 1,
+    "nombre_cliente": "Cliente Web",
+    "fecha_ingreso": "2025-08-28T10:00:00Z",
+    "fecha_salida": null,
+    "id_estado": 1
+  },
+  {
+    "id_estado_pedido": 2,
+    "nombre_cliente": "Juan Perez",
+    "fecha_ingreso": "2025-08-28T10:05:00Z",
+    "fecha_salida": null,
+    "id_estado": 1
+  },
+  {
+    "id_estado_pedido": 3,
+    "nombre_cliente": "Maria Lopez",
+    "fecha_ingreso": "2025-08-28T10:10:00Z",
+    "fecha_salida": null,
+    "id_estado": 2
+  },
+  {
+    "id_estado_pedido": 4,
+    "nombre_cliente": "Cliente Web",
+    "fecha_ingreso": "2025-08-28T10:15:00Z",
+    "fecha_salida": null,
+    "id_estado": 1
+  },
+  {
+    "id_estado_pedido": 5,
+    "nombre_cliente": "Carlos Gomez",
+    "fecha_ingreso": "2025-08-28T10:20:00Z",
+    "fecha_salida": null,
+    "id_estado": 3
+  },
+  {
+    "id_estado_pedido": 6,
+    "nombre_cliente": "Cliente Web",
+    "fecha_ingreso": "2025-08-28T10:25:00Z",
+    "fecha_salida": null,
+    "id_estado": 2
+  },
+  {
+    "id_estado_pedido": 7,
+    "nombre_cliente": "Ana Torres",
+    "fecha_ingreso": "2025-08-28T10:30:00Z",
+    "fecha_salida": null,
+    "id_estado": 1
+  },
+  {
+    "id_estado_pedido": 8,
+    "nombre_cliente": "Pedro Ruiz",
+    "fecha_ingreso": "2025-08-28T10:35:00Z",
+    "fecha_salida": null,
+    "id_estado": 3
+  },
+  {
+    "id_estado_pedido": 9,
+    "nombre_cliente": "Cliente Web",
+    "fecha_ingreso": "2025-08-28T10:40:00Z",
+    "fecha_salida": null,
+    "id_estado": 2
+  },
+  {
+    "id_estado_pedido": 10,
+    "nombre_cliente": "Sofia Vargas",
+    "fecha_ingreso": "2025-08-28T10:45:00Z",
+    "fecha_salida": null,
+    "id_estado": 1
+  }
+]
