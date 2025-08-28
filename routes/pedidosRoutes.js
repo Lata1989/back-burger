@@ -7,6 +7,8 @@ const router = express.Router();
 // Define la ruta GET para obtener todos los pedidos
 router.get('/', pedidosController.getPedidos);
 
+router.get('/entregados', pedidosController.getPedidosEntregados);
+
 // Define la ruta POST para crear un nuevo pedido
 router.post('/', pedidosController.createPedido);
 
